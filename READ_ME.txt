@@ -1,0 +1,1 @@
+Fiz 2 projetos um com UI (Jokenpo) outro sem (Pedra_Papel_Tesoura), fiz das duas formas para a sua apreciação.
