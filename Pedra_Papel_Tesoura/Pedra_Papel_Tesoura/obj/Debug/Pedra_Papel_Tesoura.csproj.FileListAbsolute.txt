@@ -1,0 +1,7 @@
+C:\Users\Kevin\source\repos\Pedra_Papel_Tesoura\Pedra_Papel_Tesoura\bin\Debug\Pedra_Papel_Tesoura.exe.config
+C:\Users\Kevin\source\repos\Pedra_Papel_Tesoura\Pedra_Papel_Tesoura\bin\Debug\Pedra_Papel_Tesoura.exe
+C:\Users\Kevin\source\repos\Pedra_Papel_Tesoura\Pedra_Papel_Tesoura\bin\Debug\Pedra_Papel_Tesoura.pdb
+C:\Users\Kevin\source\repos\Pedra_Papel_Tesoura\Pedra_Papel_Tesoura\obj\Debug\Pedra_Papel_Tesoura.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\source\repos\Pedra_Papel_Tesoura\Pedra_Papel_Tesoura\obj\Debug\Pedra_Papel_Tesoura.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Pedra_Papel_Tesoura\Pedra_Papel_Tesoura\obj\Debug\Pedra_Papel_Tesoura.exe
+C:\Users\Kevin\source\repos\Pedra_Papel_Tesoura\Pedra_Papel_Tesoura\obj\Debug\Pedra_Papel_Tesoura.pdb
